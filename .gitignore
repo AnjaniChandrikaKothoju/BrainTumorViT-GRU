@@ -1,0 +1,20 @@
+# Dataset
+dataset/
+
+# Trained models
+saved_models/
+
+# Uploaded/test images
+uploads/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+.env
