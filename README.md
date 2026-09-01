@@ -146,15 +146,19 @@ Dataset-related functionality is provided in `dataset.py`.
 
 ## 📈 Results
 
-The repository contains:
+The model achieved an overall test accuracy of **88.71%**.
 
-- Classification report
-- Confusion matrix
-- Training curves
-- Training history
-- Training logs
+The repository contains the classification report, confusion matrix, training curves, training history, and training logs.
 
-These results can be found in the `outputs/` directory.
+### Confusion Matrix
+
+![Confusion Matrix](outputs/confusion_matrix_test.png)
+
+### Training Curves
+
+![Training Curves](outputs/training_curves.png)
+
+The complete results are available in the `outputs/` directory.
 
 ## 📦 Dataset and Trained Models
 
